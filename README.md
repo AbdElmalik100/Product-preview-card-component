@@ -1,4 +1,4 @@
-# Product preview card component
+# Product Preview Card Component
 
 Responsive Front-End Mentor Challenge Using Pure HTML + CSS
 
